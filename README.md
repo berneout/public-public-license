@@ -19,6 +19,9 @@ A "fork" of [The MIT License], with two changes:
 
 [The MIT License]: https://spdx.org/licenses/MIT
 
+In other words: The MIT License, less paperwork, with a built-in life
+preserver for open source maintainers.
+
 ## Whysit?
 
 Two reasons:
