@@ -94,9 +94,11 @@ to tax-exempt or "not-for-profit" entities, or even government entities.
 Conversely, an individual needn't self-identify, even if their use of
 the software is entirely profit-seeking.
 
-> > 7\. Distribution of License The rights attached to the program must
-> > apply to all to whom the program is redistributed without the need
-> > for execution of an additional license by those parties.
+> > 7\. Distribution of License
+> >
+> > The rights attached to the program must apply to all to whom the
+> > program is redistributed without the need for execution of an
+> > additional license by those parties.
 >
 > Rationale: This clause is intended to forbid closing up software by
 > indirect means such as requiring a non-disclosure agreement.
