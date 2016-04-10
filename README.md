@@ -1,5 +1,11 @@
 ***Warning! Experimental legal technology.***
 
+Software licenses are prescription-strength legal devices.
+
+If you need to choose a license, don’t be an idiot. Hire a lawyer.
+
+A good one will know whether the Public Public License fits your need.
+
 ## Whatsit?
 
 A "fork" of [The MIT License], with two changes:
