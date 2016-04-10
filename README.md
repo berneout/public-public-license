@@ -103,7 +103,7 @@ the software is entirely profit-seeking.
 > Rationale: This clause is intended to forbid closing up software by
 > indirect means such as requiring a non-disclosure agreement.
 
-To be honest, [I] never really understood this critrerion.
+To be honest, [I] never really understood this criterion.
 
 The Public Public License does impose an additional step on some
 licensees, but that step does not give licensors any kind of veto or
@@ -136,7 +136,7 @@ project is orphaned, the self-identification requirement drops out.
 
 Read as broadly as possible, the attribution requirements of all the
 most common open source licenses violate this criterion. At the other
-extreme, the OSD's comments focus very specifically on click-wrap, a
+extreme, the OSI's comments focus very specifically on click-wrap, a
 classic problem dealing with when contracts are formed, rather than
 satisfying conditions of a license.
 
