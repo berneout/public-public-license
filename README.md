@@ -15,7 +15,7 @@ A "fork" of [The MIT License], with two changes:
 
 2. Corporations and other kinds of legal entities, but not individuals,
    have to propose patches to add themselves to a list below the license
-   terms to exercise any permission for the software.
+   terms in order to exercise their permission for the software.
 
 [The MIT License]: https://spdx.org/licenses/MIT
 
