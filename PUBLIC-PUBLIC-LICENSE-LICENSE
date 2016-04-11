@@ -1,12 +1,6 @@
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of The Public Public License (the "PPL"), to deal in the PPL
-without restriction, including without limitation the rights to use,
-copy, modify, merge, publish, distribute, sublicense, and/or sell copies
-of the PPL, and to permit persons to whom the PPL is furnished to do so,
-subject to the following conditions:
-
-Identifying partial or modified copies of the PPL as "The Public Public
-License" is strictly prohibited. Use a different name.
+Redistribution and use of The Public Public License (the "PPL"), with or
+without modification, are permitted provided that partial and modified
+copies of the PPL may not be called "The Public Public License".
 
 The PPL is not legal advice, and its authors do not become your
 attorneys or professionally responsible to you because of what the PPL
@@ -14,12 +8,16 @@ or any related materials say. The fact that someone has contributed to
 the PPL does not mean that they are a lawyer or specialized in any kind
 of law or legal practice.
 
-THE PPL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
-THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+THE PPL IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
+THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR
+CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THE PPL,
+EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 /s/ Kyle E. Mitchell
