@@ -8,7 +8,7 @@ A good one will know whether the Public Public License fits your need.
 
 ## Whatsit?
 
-A "fork" of [The MIT License], with two changes:
+A "fork" of [The Two-Clause BSD License], with two changes:
 
 1. No more "attribution" requirement to provide copies of a copyright
    notice or the license itself.
@@ -17,10 +17,10 @@ A "fork" of [The MIT License], with two changes:
    have to propose patches to add themselves to a list below the license
    terms in order to exercise their permission for the software.
 
-[The MIT License]: https://spdx.org/licenses/MIT
+[The Two-Clause BSD License]: https://spdx.org/licenses/BSD-2-Clause
 
-In other words: The MIT License, less paperwork, with a built-in life
-preserver for open source maintainers.
+In other words: The FreeBSD license, less paperwork, with a built-in
+life preserver for open source maintainers.
 
 ## Whysit?
 
