@@ -113,9 +113,9 @@ list of licensees. As soon as the proposal is made, whether maintainers
 ever adopt it or not, the condition is satisfied.
 
 As an escape hatch, the self-identification requirement applies only
-when it when someone "reasonably skilled in software development" can
-"readily ascertain\[\]" how to propose for free on the 'Net. If the
-project is orphaned, the self-identification requirement drops out.
+when someone "reasonably skilled in software development" can "readily
+ascertain\[\]" how to propose for free on the 'Net. If the project is
+orphaned, the self-identification requirement drops out.
 
 > > 10\. License Must Be Technology-Neutral
 > >
